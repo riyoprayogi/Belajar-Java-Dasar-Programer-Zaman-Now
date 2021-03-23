@@ -16,7 +16,8 @@ public class TipeDataBukanPrimitif {
         int iniInt = 100;
 
         Integer iniObject = iniInt;
-
+        
+        // Konversi yg tidak sejenis
         short iniShort = iniObject.shortValue();
         long iniLong2 = iniObject.longValue();
         float iniFloat = iniObject.floatValue();
