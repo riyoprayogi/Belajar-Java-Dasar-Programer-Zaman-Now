@@ -15,6 +15,8 @@ public class KonversiNumber {
         short iniShort2 = (short) iniInt2;
         // dan seterusnya
 
+        System.out.println(iniLong2);
+
 
 
     }

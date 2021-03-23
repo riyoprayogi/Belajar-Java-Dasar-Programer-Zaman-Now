@@ -17,5 +17,8 @@ public class TipeDataNumber {
         long balance = 1_000_000_000_000L;
         int sum = 60_000_000;
 
+        System.out.print(iniByte);
+        
+
     }
 }
