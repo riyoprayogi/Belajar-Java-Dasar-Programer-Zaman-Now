@@ -13,9 +13,9 @@ public class MethodVariableArgument {
         var finalValue = total / values.length;
 
         if (finalValue >= 75){
-            System.out.println("Selamat " + name + ", Anda Lulus");
+            System.out.println("Selamat " + name + ", Anda Lulus :)");
         }else {
-            System.out.println("Mohon maaf " + name + ", Anda Tidak Lulus");
+            System.out.println("Mohon maaf " + name + ", Anda Tidak Lulus :(");
         }
     }
 }
